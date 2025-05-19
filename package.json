@@ -1,5 +1,5 @@
 {
-  "name": "@hkjeffchan/nestjs-monorepo",
+  "name": "@hkjeffchan/nestjs-redis",
   "version": "11.0.0",
   "description": "Redis module for Nest framework (node.js).",
   "author": "LiaoLiao <yxiaosong002@gmail.com>",
@@ -56,5 +56,6 @@
   },
   "bugs": {
     "url": "https://github.com/liaoliaots/nestjs-redis/issues"
-  }
+  },
+  "packageManager": "pnpm@8.12.1+sha1.aa961ffce9b6eaa56307d9b5ff7e984f25b7eb58"
 }
